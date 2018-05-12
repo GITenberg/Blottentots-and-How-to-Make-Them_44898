@@ -1,0 +1,25 @@
+_repo: Blottentots-and-How-to-Make-Them_44898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44898-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carmel, John Prosper
+    gutenberg_agent_id: '42974'
+    url: http://www.gutenberg.org/2009/agents/42974
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inkblots'
+- !lcc 'PN'
+- !lcsh 'Poetry'
+title: Blottentots, and How to Make Them
+url: http://www.gutenberg.org/ebooks/44898
